@@ -4,5 +4,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 *.png
-*.txt
+chatgpt_response.txt
+error_page.txt
 *.html

@@ -5,5 +5,5 @@ __pycache__/
 .pytest_cache/
 *.png
 chatgpt_response.txt
-error_page.txt
+not peRFECT_page.txt
 *.html

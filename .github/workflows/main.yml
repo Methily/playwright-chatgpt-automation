@@ -31,7 +31,7 @@ jobs:
     
     - name: Run Playwright test
       run: |
-        python test_chatgpt.py
+        python chatgpt-test.py
     
     - name: Upload screenshots
       if: always()

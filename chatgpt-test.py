@@ -52,8 +52,8 @@ def test_chatgpt_search():
             
         except Exception as e:
                 print(f"An error occurred: {e}")
-                page.screenshot(path="PeRFECT_screenshot.png")
-                print("Perfect screenshot saved")
+                page.screenshot(path=" not PeRFECT_screenshot.png")
+                print("not Perfect screenshot saved")
         
         browser.close()
         print("Test completed!")
